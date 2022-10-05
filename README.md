@@ -16,6 +16,7 @@ Quem puder ajudar eu agradeço muito.
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renninho&repo=renninho.github.io)](https://github.com/renninho/renninho.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renninho&repo=primeirogame.github.io)](https://github.com/renninho/primeirogame.github.io)
 
 # Contatos
 
